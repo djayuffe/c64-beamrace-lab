@@ -1,0 +1,11 @@
+C64 Beamrace Lab
+Copyright (C) 2026 Ulf Bertilsson
+SPDX-License-Identifier: GPL-3.0-or-later
+
+docs/ENGINEERING_REFERENCE.md is a verbatim copy of the supplied
+BEAMRACE_LAB_FINAL_ENGINEERING_REFERENCE.md (Final Engineering Edition).
+The repository README supplies navigation and notes on known inconsistencies;
+it does not certify the examples as an executable or timing-verified demo.
+
+This work is distributed under the GNU General Public License, version 3,
+or (at your option) any later version. See LICENSE.
